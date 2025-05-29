@@ -7,8 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual é o maior oceano do planeta?',
-    'O maior oceano do planeta é o Oceano Pacífico.
-    'Ele cobre cerca de 1/3 da superfície da Terra e é também o mais profundo, com a Fossa das Marianas chegando a aproximadamente 11.000 metros de profundidade.'
+    'O maior oceano do planeta é o Oceano Pacífico. Ele cobre cerca de 1/3 da superfície da Terra e é também o mais profundo, com a Fossa das Marianas chegando a aproximadamente 11.000 metros de profundidade.'
 )
 
 criaCartao(
